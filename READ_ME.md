@@ -2,7 +2,11 @@ Tecnologias de Redes de Computadores – Fatec SCS
 Prof. Fábio Henrique Cabrini 
 
 Jogos Digitais – 5º Semestre 2021
-Lucas Onzeki Tokudo • Marco Antonio Dias Jr • Sérgio Salgado 
+Lucas Onzeki Tokudo RA 3011
+Marco Antonio Dias Jr RA 3049
+Sérgio Salgado RA 3029
+
+Link Youtube: https://youtu.be/d4Wg3ozrESw
 
 Jogo em Rede – Pedra × Papel × Tesoura
 (Simulador contra Robo via chat)
