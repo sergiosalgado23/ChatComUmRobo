@@ -1,24 +1,24 @@
-Tecnologias de Redes de Computadores – Fatec SCS
-Prof. Fábio Henrique Cabrini 
+Tecnologias de Redes de Computadores â€“ Fatec SCS
+Prof. FÃ¡bio Henrique Cabrini 
 
-Jogos Digitais – 5º Semestre 2021
-Lucas Onzeki Tokudo RA 3011
-Marco Antonio Dias Jr RA 3049
-Sérgio Salgado RA 3029
+Jogos Digitais â€“ 5Âº Semestre 2021
+Lucas Onzeki Tokudo RA 3011,
+Marco Antonio Dias Jr RA 3049,
+SÃ©rgio Salgado RA 3029
 
 Link Youtube: https://youtu.be/d4Wg3ozrESw
 
-Jogo em Rede – Pedra × Papel × Tesoura
+Jogo em Rede â€“ Pedra Ã— Papel Ã— Tesoura
 (Simulador contra Robo via chat)
 
  
-1 – Abra os arquivos “server_gui.py ”, “client_gui.py” e “Robot.py” 
+1 â€“ Abra os arquivos â€œserver_gui.py â€, â€œclient_gui.pyâ€ e â€œRobot.pyâ€ 
 
-Na tela cliente é necessário o nome do usuário para acessar a rede
+Na tela cliente Ã© necessÃ¡rio o nome do usuÃ¡rio para acessar a rede
  
 
 
-Na tela Robo você pode adicionar um nome ou conectar automaticamente como “Robo” 
+Na tela Robo vocÃª pode adicionar um nome ou conectar automaticamente como â€œRoboâ€ 
  
 
 
@@ -26,8 +26,8 @@ Na tela Servidor inicie para ativar o host e a porta
  
 
 
-2 – Jogar 
-Servidor acionado (configurado em rede local – loopback)
+2 â€“ Jogar 
+Servidor acionado (configurado em rede local â€“ loopback)
 Jogador e Robo conectados 
  
 
@@ -39,7 +39,7 @@ Ao conectar-se Jogador recebe mensagens do Servidor com as regras e do Robo com 
  
 
 
-Digite uma das 3 opções (em caixa baixa) para receber a resposta do Robo*. Digite “exit” para sair.
+Digite uma das 3 opÃ§Ãµes (em caixa baixa) para receber a resposta do Robo*. Digite â€œexitâ€ para sair.
  
 
-*nesta versão alpha o Robo está conÿgurado para vencer. 
+*nesta versÃ£o alpha o Robo estÃ¡ conÃ¿gurado para vencer. 
